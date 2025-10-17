@@ -46,8 +46,6 @@
 }
 ```
 
----
-
 ## 📘 README.md (Güncellenmiş)
 
 ````markdown
